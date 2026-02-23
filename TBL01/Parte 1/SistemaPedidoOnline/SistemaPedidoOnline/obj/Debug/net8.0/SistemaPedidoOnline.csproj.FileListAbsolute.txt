@@ -1,0 +1,14 @@
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\bin\Debug\net8.0\SistemaPedidoOnline.exe
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\bin\Debug\net8.0\SistemaPedidoOnline.deps.json
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\bin\Debug\net8.0\SistemaPedidoOnline.runtimeconfig.json
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\bin\Debug\net8.0\SistemaPedidoOnline.dll
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\bin\Debug\net8.0\SistemaPedidoOnline.pdb
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\obj\Debug\net8.0\SistemaPedidoOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\obj\Debug\net8.0\SistemaPedidoOnline.AssemblyInfoInputs.cache
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\obj\Debug\net8.0\SistemaPedidoOnline.AssemblyInfo.cs
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\obj\Debug\net8.0\SistemaPedidoOnline.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\obj\Debug\net8.0\SistemaPedidoOnline.dll
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\obj\Debug\net8.0\refint\SistemaPedidoOnline.dll
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\obj\Debug\net8.0\SistemaPedidoOnline.pdb
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\obj\Debug\net8.0\SistemaPedidoOnline.genruntimeconfig.cache
+C:\Users\alunolab\source\repos\SistemaPedidoOnline\SistemaPedidoOnline\obj\Debug\net8.0\ref\SistemaPedidoOnline.dll
