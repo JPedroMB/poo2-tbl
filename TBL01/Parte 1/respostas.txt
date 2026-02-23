@@ -1,0 +1,3 @@
+A) Elaboramos a estrutura do projeto, começamos a levar pro código, conferimos os requisitos pra ver se tudo tava dando certo e por fim fizemos os testes e lançamos pra produção.
+B) Testamos cada fase individualmente pra ver se tudo se completava e compilava.
+C) Voltaríamos na primeira fase, pra ver a diagramação, reestruturar o código e só então iriamos implementar tudo.
