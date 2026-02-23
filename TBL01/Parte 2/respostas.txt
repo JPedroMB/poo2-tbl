@@ -1,0 +1,8 @@
+A) Sim, em cada incremento era possível ele testar a função, sem ter que esperar tudo ficar pronto.
+B) Demais, pois é possível ver o que deu erro e o que deu certo de uma vez, além de facilitar as mudanças.
+
+--
+
+A) Incremental
+B) Incremental
+C) Entregar valor
