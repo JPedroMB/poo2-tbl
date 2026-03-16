@@ -1,0 +1,14 @@
+/Users/joaopedro/Downloads/PokemonAPI 2/bin/Debug/net8.0/PokemonAPI
+/Users/joaopedro/Downloads/PokemonAPI 2/bin/Debug/net8.0/PokemonAPI.deps.json
+/Users/joaopedro/Downloads/PokemonAPI 2/bin/Debug/net8.0/PokemonAPI.runtimeconfig.json
+/Users/joaopedro/Downloads/PokemonAPI 2/bin/Debug/net8.0/PokemonAPI.dll
+/Users/joaopedro/Downloads/PokemonAPI 2/bin/Debug/net8.0/PokemonAPI.pdb
+/Users/joaopedro/Downloads/PokemonAPI 2/obj/Debug/net8.0/PokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopedro/Downloads/PokemonAPI 2/obj/Debug/net8.0/PokemonAPI.AssemblyInfoInputs.cache
+/Users/joaopedro/Downloads/PokemonAPI 2/obj/Debug/net8.0/PokemonAPI.AssemblyInfo.cs
+/Users/joaopedro/Downloads/PokemonAPI 2/obj/Debug/net8.0/PokemonAPI.csproj.CoreCompileInputs.cache
+/Users/joaopedro/Downloads/PokemonAPI 2/obj/Debug/net8.0/PokemonAPI.dll
+/Users/joaopedro/Downloads/PokemonAPI 2/obj/Debug/net8.0/refint/PokemonAPI.dll
+/Users/joaopedro/Downloads/PokemonAPI 2/obj/Debug/net8.0/PokemonAPI.pdb
+/Users/joaopedro/Downloads/PokemonAPI 2/obj/Debug/net8.0/PokemonAPI.genruntimeconfig.cache
+/Users/joaopedro/Downloads/PokemonAPI 2/obj/Debug/net8.0/ref/PokemonAPI.dll
